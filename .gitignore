@@ -1,0 +1,25 @@
+node_modules/
+dist/
+shots/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+
+# build outputs (npm run build:js recreates them)
+src/bundle.js
+src/showroom.bundle.js
+
+# large or redistribution-restricted source packs (the game only ships the baked results)
+assets/models_hi/
+assets/ambientcg/
+assets/mixamo/
+assets/audio_upload/
+assets/polyhaven/*
+!assets/polyhaven/CREDITS.json
+!assets/polyhaven/models/
+assets/polyhaven/models/*
+!assets/polyhaven/models/service_pistol/
+
+# one-off patch scripts used while developing
+tools/patch_*.py

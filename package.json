@@ -1,0 +1,53 @@
+{
+  "name": "neon-overdrive",
+  "version": "1.2.3",
+  "description": "Neon Overdrive - open-world crime & racing game for 1-4 players",
+  "main": "main.js",
+  "author": "Neon Studios",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build:js": "esbuild src/main.js --bundle --format=iife --minify --outfile=src/bundle.js",
+    "start": "npm run build:js && electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.4.11",
+    "electron-builder": "^25.1.8",
+    "esbuild": "^0.24.0",
+    "resedit": "^2.0.3",
+    "three": "^0.170.0"
+  },
+  "productName": "Neon Overdrive",
+  "build": {
+    "appId": "dev.pipilot.neonoverdrive",
+    "productName": "Neon Overdrive",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.js",
+      "package.json",
+      "src/index.html",
+      "src/style.css",
+      "src/music.js",
+      "src/bundle.js",
+      "assets/icon.png",
+      "assets/models/**",
+      "assets/ui/**",
+      "assets/voice/**",
+      "assets/audio/**",
+      "assets/music/**",
+      "assets/football/**",
+      "assets/story/**",
+      "assets/polyhaven/models/service_pistol/**",
+      "assets/polyhaven/CREDITS.json",
+      "!**/*.map"
+    ],
+    "asar": true,
+    "win": {
+      "target": [
+        "dir"
+      ],
+      "signAndEditExecutable": false
+    }
+  }
+}
