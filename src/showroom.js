@@ -1,0 +1,20 @@
+import * as THREE from 'three';
+import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
+import { RoomEnvironment } from 'three/examples/jsm/environments/RoomEnvironment.js';
+import { CARS, DRIVERS, buildCarModel, buildPoliceModel, loadDriver, poseSeated, PAINTS } from './car.js';
+const W = 1000, H = 600;
+const renderer = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true }); renderer.setSize(W, H); renderer.toneMapping = THREE.ACESFilmicToneMapping; renderer.outputColorSpace = THREE.SRGBColorSpace; document.body.appendChild(renderer.domElement);
+const scene = new THREE.Scene(); const pm = new THREE.PMREMGenerator(renderer); scene.environment = pm.fromScene(new RoomEnvironment(), 0.04).texture; scene.environmentIntensity = 1.1;
+scene.background = new THREE.Color(0x14171d);
+const floor = new THREE.Mesh(new THREE.CircleGeometry(30, 64), new THREE.MeshStandardMaterial({ color: 0x20242b, roughness: 0.35, metalness: 0.4 })); floor.rotation.x = -Math.PI / 2; scene.add(floor);
+const key = new THREE.DirectionalLight(0xffffff, 2.2); key.position.set(6, 8, 7); scene.add(key); const rim = new THREE.DirectionalLight(0x6aa8ff, 1.6); rim.position.set(-7, 4, -6); scene.add(rim); scene.add(new THREE.HemisphereLight(0xffffff, 0x222222, 0.5));
+const cam = new THREE.PerspectiveCamera(32, W / H, 0.1, 100); const loader = new GLTFLoader();
+let current = null;
+window.showCar = (id, paint, ang = 0.62, glow = null, el = 1.5) => { if (current) scene.remove(current); const spec = id === 'police' ? null : CARS.find(c => c.id === id); current = id === 'police' ? buildPoliceModel() : buildCarModel(spec, paint, { glow }); scene.add(current); const L = current.userData.L; const r = L * 1.5; cam.position.set(Math.sin(ang) * r, el, Math.cos(ang) * r); cam.lookAt(0, 0.7, 0); renderer.render(scene, cam); return true; };
+window.showDriver = async (idx, seated, mode = 'full') => {
+  if (current) scene.remove(current); const d = DRIVERS[idx]; const root = await loadDriver(d, loader, '../assets/players/'); const g = new THREE.Group(); g.add(root); current = g; scene.add(g);
+  if (seated) poseSeated(root);
+  const mix = new THREE.AnimationMixer(root); root.userData.mixer = mix;
+  if (mode === 'bust') { cam.position.set(0.25, 1.72, 1.5); cam.lookAt(0, 1.66, 0); cam.fov = 26; } else { cam.position.set(0, 1.0, 4.6); cam.lookAt(0, 0.92, 0); cam.fov = 30; } cam.updateProjectionMatrix(); root.rotation.y = mode === 'bust' ? 0.3 : 0.25; renderer.render(scene, cam); cam.fov = 32; cam.updateProjectionMatrix(); return d.name;
+};
+window.PAINTS = PAINTS; window.CARS = CARS; window.DRIVERS = DRIVERS; window.ready = true;
