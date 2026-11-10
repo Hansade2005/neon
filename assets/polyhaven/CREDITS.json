@@ -1,0 +1,1620 @@
+{
+ "asphalt_02": {
+  "name": "Asphalt 02",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/asphalt_02",
+  "license": "CC0"
+ },
+ "aerial_asphalt_01": {
+  "name": "Aerial Asphalt 01",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/aerial_asphalt_01",
+  "license": "CC0"
+ },
+ "asphalt_01": {
+  "name": "Asphalt 01",
+  "authors": [
+   "Dario Barresi",
+   "Charlotte Baglioni"
+  ],
+  "url": "https://polyhaven.com/a/asphalt_01",
+  "license": "CC0"
+ },
+ "asphalt_pit_lane": {
+  "name": "Asphalt Pit Lane",
+  "authors": [
+   "Dimitrios Savva"
+  ],
+  "url": "https://polyhaven.com/a/asphalt_pit_lane",
+  "license": "CC0"
+ },
+ "asphalt_04": {
+  "name": "Asphalt 04",
+  "authors": [
+   "Jenelle van Heerden",
+   "Sergej Majboroda"
+  ],
+  "url": "https://polyhaven.com/a/asphalt_04",
+  "license": "CC0"
+ },
+ "concrete_floor_worn_001": {
+  "name": "Concrete Floor Worn 001",
+  "authors": [
+   "Dimitrios Savva",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/concrete_floor_worn_001",
+  "license": "CC0"
+ },
+ "beige_wall_001": {
+  "name": "Beige Wall 001",
+  "authors": [
+   "Dimitrios Savva",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/beige_wall_001",
+  "license": "CC0"
+ },
+ "painted_plaster_wall": {
+  "name": "Painted Plaster Wall",
+  "authors": [
+   "Amal Kumar"
+  ],
+  "url": "https://polyhaven.com/a/painted_plaster_wall",
+  "license": "CC0"
+ },
+ "white_plaster_02": {
+  "name": "White Plaster 02",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/white_plaster_02",
+  "license": "CC0"
+ },
+ "concrete_floor_02": {
+  "name": "Concrete Floor 02",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/concrete_floor_02",
+  "license": "CC0"
+ },
+ "concrete_layers_02": {
+  "name": "Concrete Layers 02",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/concrete_layers_02",
+  "license": "CC0"
+ },
+ "red_brick": {
+  "name": "Red Brick",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/red_brick",
+  "license": "CC0"
+ },
+ "red_brick_03": {
+  "name": "Red Brick 03",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/red_brick_03",
+  "license": "CC0"
+ },
+ "brick_4": {
+  "name": "Brick 4",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/brick_4",
+  "license": "CC0"
+ },
+ "castle_brick_02_red": {
+  "name": "Castle Brick 02 Red",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/castle_brick_02_red",
+  "license": "CC0"
+ },
+ "large_floor_tiles_02": {
+  "name": "Large Floor Tiles 02",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/large_floor_tiles_02",
+  "license": "CC0"
+ },
+ "large_square_pattern_01": {
+  "name": "Large Square Pattern 01",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/large_square_pattern_01",
+  "license": "CC0"
+ },
+ "laminate_floor_02": {
+  "name": "Laminate Floor 02",
+  "authors": [
+   "Dario Barresi",
+   "Charlotte Baglioni"
+  ],
+  "url": "https://polyhaven.com/a/laminate_floor_02",
+  "license": "CC0"
+ },
+ "fabric_pattern_07": {
+  "name": "Fabric Pattern 07",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/fabric_pattern_07",
+  "license": "CC0"
+ },
+ "marble_01": {
+  "name": "Marble 01",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/marble_01",
+  "license": "CC0"
+ },
+ "leather_red_02": {
+  "name": "Leather Red 02",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/leather_red_02",
+  "license": "CC0"
+ },
+ "book_pattern": {
+  "name": "Book Pattern",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/book_pattern",
+  "license": "CC0"
+ },
+ "wood_table_001": {
+  "name": "Wood Table 001",
+  "authors": [
+   "Dimitrios Savva",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/wood_table_001",
+  "license": "CC0"
+ },
+ "wood_table_worn": {
+  "name": "Wood Table Worn",
+  "authors": [
+   "Dimitrios Savva",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/wood_table_worn",
+  "license": "CC0"
+ },
+ "weathered_brown_planks": {
+  "name": "Weathered Brown Planks",
+  "authors": [
+   "Dimitrios Savva",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/weathered_brown_planks",
+  "license": "CC0"
+ },
+ "wood_floor": {
+  "name": "Wood Floor",
+  "authors": [
+   "Dimitrios Savva"
+  ],
+  "url": "https://polyhaven.com/a/wood_floor",
+  "license": "CC0"
+ },
+ "metal_plate": {
+  "name": "Metal Plate",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/metal_plate",
+  "license": "CC0"
+ },
+ "green_metal_rust": {
+  "name": "Green Metal Rust",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/green_metal_rust",
+  "license": "CC0"
+ },
+ "rust_coarse_01": {
+  "name": "Rust Coarse 01",
+  "authors": [
+   "Dimitrios Savva",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/rust_coarse_01",
+  "license": "CC0"
+ },
+ "rusty_metal_02": {
+  "name": "Rusty Metal 02",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/rusty_metal_02",
+  "license": "CC0"
+ },
+ "rusty_metal_04": {
+  "name": "Rusty Metal 04",
+  "authors": [
+   "Amal Kumar"
+  ],
+  "url": "https://polyhaven.com/a/rusty_metal_04",
+  "license": "CC0"
+ },
+ "gravel_embedded_concrete": {
+  "name": "Gravel Embedded Concrete",
+  "authors": [
+   "Charlotte Baglioni"
+  ],
+  "url": "https://polyhaven.com/a/gravel_embedded_concrete",
+  "license": "CC0"
+ },
+ "gravel_concrete_03": {
+  "name": "Gravel Concrete 03",
+  "authors": [
+   "Charlotte Baglioni"
+  ],
+  "url": "https://polyhaven.com/a/gravel_concrete_03",
+  "license": "CC0"
+ },
+ "rock_tile_floor": {
+  "name": "Rock Tile Floor",
+  "authors": [
+   "Charlotte Baglioni"
+  ],
+  "url": "https://polyhaven.com/a/rock_tile_floor",
+  "license": "CC0"
+ },
+ "medieval_blocks_05": {
+  "name": "Medieval Blocks 05",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/medieval_blocks_05",
+  "license": "CC0"
+ },
+ "coast_sand_rocks_02": {
+  "name": "Coast Sand Rocks 02",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/coast_sand_rocks_02",
+  "license": "CC0"
+ },
+ "brown_mud_leaves_01": {
+  "name": "Brown Mud Leaves 01",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/brown_mud_leaves_01",
+  "license": "CC0"
+ },
+ "aerial_grass_rock": {
+  "name": "Aerial Grass Rock",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/aerial_grass_rock",
+  "license": "CC0"
+ },
+ "floor_tiles_06": {
+  "name": "Floor Tiles 06",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/floor_tiles_06",
+  "license": "CC0"
+ },
+ "floor_tiles_02": {
+  "name": "Floor Tiles 02",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "url": "https://polyhaven.com/a/floor_tiles_02",
+  "license": "CC0"
+ },
+ "sofa_02": {
+  "name": "Sofa 02",
+  "authors": [
+   "Kirill Sannikov"
+  ],
+  "url": "https://polyhaven.com/a/sofa_02",
+  "license": "CC0"
+ },
+ "sofa_03": {
+  "name": "Sofa 03",
+  "authors": [
+   "Fran Calvente"
+  ],
+  "url": "https://polyhaven.com/a/sofa_03",
+  "license": "CC0"
+ },
+ "modern_arm_chair_01": {
+  "name": "Modern Arm Chair 01",
+  "authors": [
+   "Vibrant Nordic"
+  ],
+  "url": "https://polyhaven.com/a/modern_arm_chair_01",
+  "license": "CC0"
+ },
+ "Sofa_01": {
+  "name": "Sofa 01",
+  "authors": [
+   "Kirill Sannikov"
+  ],
+  "url": "https://polyhaven.com/a/Sofa_01",
+  "license": "CC0"
+ },
+ "outdoor_table_chair_set_01": {
+  "name": "Outdoor Table Chair Set 01",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/outdoor_table_chair_set_01",
+  "license": "CC0"
+ },
+ "GreenChair_01": {
+  "name": "Green Chair 01",
+  "authors": [
+   "Kirill Sannikov"
+  ],
+  "url": "https://polyhaven.com/a/GreenChair_01",
+  "license": "CC0"
+ },
+ "Ottoman_01": {
+  "name": "Ottoman 01",
+  "authors": [
+   "Caspian Fortune"
+  ],
+  "url": "https://polyhaven.com/a/Ottoman_01",
+  "license": "CC0"
+ },
+ "plastic_monobloc_chair_01": {
+  "name": "Plastic Monobloc Chair 01",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "url": "https://polyhaven.com/a/plastic_monobloc_chair_01",
+  "license": "CC0"
+ },
+ "ArmChair_01": {
+  "name": "Arm Chair 01",
+  "authors": [
+   "Kirill Sannikov"
+  ],
+  "url": "https://polyhaven.com/a/ArmChair_01",
+  "license": "CC0"
+ },
+ "Rockingchair_01": {
+  "name": "Rockingchair 01",
+  "authors": [
+   "Jorge Camacho"
+  ],
+  "url": "https://polyhaven.com/a/Rockingchair_01",
+  "license": "CC0"
+ },
+ "wooden_table_02": {
+  "name": "Wooden Table 02",
+  "authors": [
+   "Serhii Khromov"
+  ],
+  "url": "https://polyhaven.com/a/wooden_table_02",
+  "license": "CC0"
+ },
+ "round_wooden_table_01": {
+  "name": "Round Wooden Table 01",
+  "authors": [
+   "Ulan Cabanilla"
+  ],
+  "url": "https://polyhaven.com/a/round_wooden_table_01",
+  "license": "CC0"
+ },
+ "ClassicConsole_01": {
+  "name": "Classic Console 01",
+  "authors": [
+   "Kirill Sannikov"
+  ],
+  "url": "https://polyhaven.com/a/ClassicConsole_01",
+  "license": "CC0"
+ },
+ "WoodenTable_01": {
+  "name": "Wooden Table 01",
+  "authors": [
+   "Ethan Place"
+  ],
+  "url": "https://polyhaven.com/a/WoodenTable_01",
+  "license": "CC0"
+ },
+ "wooden_picnic_table": {
+  "name": "Wooden Picnic Table",
+  "authors": [
+   "Ulan Cabanilla"
+  ],
+  "url": "https://polyhaven.com/a/wooden_picnic_table",
+  "license": "CC0"
+ },
+ "coffee_table_round_01": {
+  "name": "Coffee Table Round 01",
+  "authors": [
+   "Ulan Cabanilla"
+  ],
+  "url": "https://polyhaven.com/a/coffee_table_round_01",
+  "license": "CC0"
+ },
+ "WoodenTable_02": {
+  "name": "Wooden Table 02",
+  "authors": [
+   "Fran Calvente"
+  ],
+  "url": "https://polyhaven.com/a/WoodenTable_02",
+  "license": "CC0"
+ },
+ "GothicCabinet_01": {
+  "name": "Gothic Cabinet 01",
+  "authors": [
+   "Kirill Sannikov"
+  ],
+  "url": "https://polyhaven.com/a/GothicCabinet_01",
+  "license": "CC0"
+ },
+ "CoffeeCart_01": {
+  "name": "Coffee Cart 01",
+  "authors": [
+   "Joe Seabuhr"
+  ],
+  "url": "https://polyhaven.com/a/CoffeeCart_01",
+  "license": "CC0"
+ },
+ "GothicCommode_01": {
+  "name": "Gothic Commode 01",
+  "authors": [
+   "Kirill Sannikov"
+  ],
+  "url": "https://polyhaven.com/a/GothicCommode_01",
+  "license": "CC0"
+ },
+ "steel_frame_shelves_01": {
+  "name": "Steel Frame Shelves 01",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/steel_frame_shelves_01",
+  "license": "CC0"
+ },
+ "vintage_wooden_drawer_01": {
+  "name": "Vintage Wooden Drawer 01",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/vintage_wooden_drawer_01",
+  "license": "CC0"
+ },
+ "wooden_display_shelves_01": {
+  "name": "Wooden Display Shelves 01",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/wooden_display_shelves_01",
+  "license": "CC0"
+ },
+ "WoodenTable_03": {
+  "name": "Wooden Table 03",
+  "authors": [
+   "Gabriel Radi\u0107"
+  ],
+  "url": "https://polyhaven.com/a/WoodenTable_03",
+  "license": "CC0"
+ },
+ "GothicBed_01": {
+  "name": "Gothic Bed 01",
+  "authors": [
+   "Kirill Sannikov"
+  ],
+  "url": "https://polyhaven.com/a/GothicBed_01",
+  "license": "CC0"
+ },
+ "vintage_day_bed": {
+  "name": "Vintage Day Bed",
+  "authors": [
+   "Aron \u0141yczek"
+  ],
+  "url": "https://polyhaven.com/a/vintage_day_bed",
+  "license": "CC0"
+ },
+ "old_bed_frame": {
+  "name": "Old Bed Frame",
+  "authors": [
+   "Luca B"
+  ],
+  "url": "https://polyhaven.com/a/old_bed_frame",
+  "license": "CC0"
+ },
+ "Chandelier_03": {
+  "name": "Chandelier 03",
+  "authors": [
+   "Kirill Sannikov"
+  ],
+  "url": "https://polyhaven.com/a/Chandelier_03",
+  "license": "CC0"
+ },
+ "Chandelier_01": {
+  "name": "Chandelier 01",
+  "authors": [
+   "Kirill Sannikov"
+  ],
+  "url": "https://polyhaven.com/a/Chandelier_01",
+  "license": "CC0"
+ },
+ "modern_ceiling_lamp_01": {
+  "name": "Modern Ceiling Lamp 01",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/modern_ceiling_lamp_01",
+  "license": "CC0"
+ },
+ "Chandelier_02": {
+  "name": "Chandelier 02",
+  "authors": [
+   "Kirill Sannikov"
+  ],
+  "url": "https://polyhaven.com/a/Chandelier_02",
+  "license": "CC0"
+ },
+ "street_lamp_01": {
+  "name": "Street Lamp 01",
+  "authors": [
+   "Josh Dean"
+  ],
+  "url": "https://polyhaven.com/a/street_lamp_01",
+  "license": "CC0"
+ },
+ "street_lamp_02": {
+  "name": "Street Lamp 02",
+  "authors": [
+   "Josh Dean"
+  ],
+  "url": "https://polyhaven.com/a/street_lamp_02",
+  "license": "CC0"
+ },
+ "security_light": {
+  "name": "Security Light",
+  "authors": [
+   "Maximilian Schuster"
+  ],
+  "url": "https://polyhaven.com/a/security_light",
+  "license": "CC0"
+ },
+ "industrial_wall_lamp": {
+  "name": "Industrial Wall Lamp",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "url": "https://polyhaven.com/a/industrial_wall_lamp",
+  "license": "CC0"
+ },
+ "industrial_wall_sconce": {
+  "name": "Industrial Wall Sconce",
+  "authors": [
+   "Ulan Cabanilla"
+  ],
+  "url": "https://polyhaven.com/a/industrial_wall_sconce",
+  "license": "CC0"
+ },
+ "desk_lamp_arm_01": {
+  "name": "Desk Lamp Arm 01",
+  "authors": [
+   "Yann Kervran",
+   "Kuutti Siitonen"
+  ],
+  "url": "https://polyhaven.com/a/desk_lamp_arm_01",
+  "license": "CC0"
+ },
+ "industrial_pipe_lamp": {
+  "name": "Industrial Pipe Lamp",
+  "authors": [
+   "Mateusz Sadek"
+  ],
+  "url": "https://polyhaven.com/a/industrial_pipe_lamp",
+  "license": "CC0"
+ },
+ "WetFloorSign_01": {
+  "name": "Wet Floor Sign 01",
+  "authors": [
+   "Fran Calvente"
+  ],
+  "url": "https://polyhaven.com/a/WetFloorSign_01",
+  "license": "CC0"
+ },
+ "concrete_road_barrier": {
+  "name": "Concrete Road Barrier",
+  "authors": [
+   "Amal Kumar"
+  ],
+  "url": "https://polyhaven.com/a/concrete_road_barrier",
+  "license": "CC0"
+ },
+ "korean_fire_extinguisher_01": {
+  "name": "Korean Fire Extinguisher 01",
+  "authors": [
+   "UM JOORIN"
+  ],
+  "url": "https://polyhaven.com/a/korean_fire_extinguisher_01",
+  "license": "CC0"
+ },
+ "concrete_road_barrier_02": {
+  "name": "Concrete Road Barrier 02",
+  "authors": [
+   "Amal Kumar"
+  ],
+  "url": "https://polyhaven.com/a/concrete_road_barrier_02",
+  "license": "CC0"
+ },
+ "fire_hydrant": {
+  "name": "Fire Hydrant",
+  "authors": [
+   "Gon\u00e7alo Fel\u00edcio"
+  ],
+  "url": "https://polyhaven.com/a/fire_hydrant",
+  "license": "CC0"
+ },
+ "fire_alarm": {
+  "name": "Fire Alarm",
+  "authors": [
+   "Slinc"
+  ],
+  "url": "https://polyhaven.com/a/fire_alarm",
+  "license": "CC0"
+ },
+ "modular_fort_01": {
+  "name": "Modular Fort 01",
+  "authors": [
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/modular_fort_01",
+  "license": "CC0"
+ },
+ "modular_wooden_pier": {
+  "name": "Modular Wooden Pier",
+  "authors": [
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/modular_wooden_pier",
+  "license": "CC0"
+ },
+ "modular_chainlink_fence": {
+  "name": "Modular Chainlink Fence",
+  "authors": [
+   "James Ray Cock",
+   "Amal Kumar"
+  ],
+  "url": "https://polyhaven.com/a/modular_chainlink_fence",
+  "license": "CC0"
+ },
+ "stone_fire_pit": {
+  "name": "Stone Fire Pit",
+  "authors": [
+   "Sebastian Platen"
+  ],
+  "url": "https://polyhaven.com/a/stone_fire_pit",
+  "license": "CC0"
+ },
+ "rollershutter_window_01": {
+  "name": "Rollershutter Window 01",
+  "authors": [
+   "MP"
+  ],
+  "url": "https://polyhaven.com/a/rollershutter_window_01",
+  "license": "CC0"
+ },
+ "modular_fire_escape": {
+  "name": "Modular Fire Escape",
+  "authors": [
+   "Juniix"
+  ],
+  "url": "https://polyhaven.com/a/modular_fire_escape",
+  "license": "CC0"
+ },
+ "large_castle_door": {
+  "name": "Large Castle Door",
+  "authors": [
+   "Tina"
+  ],
+  "url": "https://polyhaven.com/a/large_castle_door",
+  "license": "CC0"
+ },
+ "rollershutter_window_02": {
+  "name": "Rollershutter Window 02",
+  "authors": [
+   "MP"
+  ],
+  "url": "https://polyhaven.com/a/rollershutter_window_02",
+  "license": "CC0"
+ },
+ "modular_urban_apartments_facade": {
+  "name": "Modular Urban Apartments Facade",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/modular_urban_apartments_facade",
+  "license": "CC0"
+ },
+ "rollershutter_window_03": {
+  "name": "Rollershutter Window 03",
+  "authors": [
+   "MP"
+  ],
+  "url": "https://polyhaven.com/a/rollershutter_window_03",
+  "license": "CC0"
+ },
+ "modular_factory_facade": {
+  "name": "Modular Factory Facade",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/modular_factory_facade",
+  "license": "CC0"
+ },
+ "large_iron_gate": {
+  "name": "Large Iron Gate",
+  "authors": [
+   "Josh Dean"
+  ],
+  "url": "https://polyhaven.com/a/large_iron_gate",
+  "license": "CC0"
+ },
+ "rollershutter_door": {
+  "name": "Rollershutter Door",
+  "authors": [
+   "MP"
+  ],
+  "url": "https://polyhaven.com/a/rollershutter_door",
+  "license": "CC0"
+ },
+ "gate_latch_01": {
+  "name": "Gate Latch 01",
+  "authors": [
+   "Desktoy"
+  ],
+  "url": "https://polyhaven.com/a/gate_latch_01",
+  "license": "CC0"
+ },
+ "tree_small_02": {
+  "name": "Tree Small 02",
+  "authors": [
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/tree_small_02",
+  "license": "CC0"
+ },
+ "jacaranda_tree": {
+  "name": "Jacaranda Tree",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/jacaranda_tree",
+  "license": "CC0"
+ },
+ "island_tree_02": {
+  "name": "Island Tree 02",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/island_tree_02",
+  "license": "CC0"
+ },
+ "fir_tree_01": {
+  "name": "Fir Tree 01",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/fir_tree_01",
+  "license": "CC0"
+ },
+ "island_tree_01": {
+  "name": "Island Tree 01",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/island_tree_01",
+  "license": "CC0"
+ },
+ "fir_sapling_medium": {
+  "name": "Fir Sapling Medium",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/fir_sapling_medium",
+  "license": "CC0"
+ },
+ "pine_tree_01": {
+  "name": "Pine Tree 01",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/pine_tree_01",
+  "license": "CC0"
+ },
+ "island_tree_03": {
+  "name": "Island Tree 03",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/island_tree_03",
+  "license": "CC0"
+ },
+ "Megaphone_01": {
+  "name": "Megaphone 01",
+  "authors": [
+   "Ethan Simon-Law"
+  ],
+  "url": "https://polyhaven.com/a/Megaphone_01",
+  "license": "CC0"
+ },
+ "CashRegister_01": {
+  "name": "Cash Register 01",
+  "authors": [
+   "Joe Seabuhr"
+  ],
+  "url": "https://polyhaven.com/a/CashRegister_01",
+  "license": "CC0"
+ },
+ "korean_public_payphone_01": {
+  "name": "Korean Public Payphone 01",
+  "authors": [
+   "UM JOORIN"
+  ],
+  "url": "https://polyhaven.com/a/korean_public_payphone_01",
+  "license": "CC0"
+ },
+ "magnifying_glass_01": {
+  "name": "Magnifying Glass 01",
+  "authors": [
+   "Nazar Borodavka"
+  ],
+  "url": "https://polyhaven.com/a/magnifying_glass_01",
+  "license": "CC0"
+ },
+ "gamepad": {
+  "name": "Gamepad",
+  "authors": [
+   "Josh Dean"
+  ],
+  "url": "https://polyhaven.com/a/gamepad",
+  "license": "CC0"
+ },
+ "chemistry_set": {
+  "name": "Chemistry Set",
+  "authors": [
+   "Ji\u0159\u00ed Pt\u00e1\u010dek"
+  ],
+  "url": "https://polyhaven.com/a/chemistry_set",
+  "license": "CC0"
+ },
+ "barrel_stove": {
+  "name": "Barrel Stove",
+  "authors": [
+   "MP"
+  ],
+  "url": "https://polyhaven.com/a/barrel_stove",
+  "license": "CC0"
+ },
+ "electric_stove": {
+  "name": "Electric Stove",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "url": "https://polyhaven.com/a/electric_stove",
+  "license": "CC0"
+ },
+ "ceiling_fan": {
+  "name": "Ceiling Fan",
+  "authors": [
+   "Ulan Cabanilla"
+  ],
+  "url": "https://polyhaven.com/a/ceiling_fan",
+  "license": "CC0"
+ },
+ "gaming_console": {
+  "name": "Gaming Console",
+  "authors": [
+   "Sean Buckley"
+  ],
+  "url": "https://polyhaven.com/a/gaming_console",
+  "license": "CC0"
+ },
+ "vintage_microwave": {
+  "name": "Vintage Microwave",
+  "authors": [
+   "Adam Nekola"
+  ],
+  "url": "https://polyhaven.com/a/vintage_microwave",
+  "license": "CC0"
+ },
+ "Camera_01": {
+  "name": "Camera 01",
+  "authors": [
+   "Rajil Jose Macatangay"
+  ],
+  "url": "https://polyhaven.com/a/Camera_01",
+  "license": "CC0"
+ },
+ "Television_01": {
+  "name": "Television 01",
+  "authors": [
+   "Gabriel Radi\u0107"
+  ],
+  "url": "https://polyhaven.com/a/Television_01",
+  "license": "CC0"
+ },
+ "boombox": {
+  "name": "Boombox",
+  "authors": [
+   "Thomas Paul Mouilleron"
+  ],
+  "url": "https://polyhaven.com/a/boombox",
+  "license": "CC0"
+ },
+ "cassette_player": {
+  "name": "Cassette Player",
+  "authors": [
+   "Oday Abuzaeed"
+  ],
+  "url": "https://polyhaven.com/a/cassette_player",
+  "license": "CC0"
+ },
+ "classic_laptop": {
+  "name": "Classic Laptop",
+  "authors": [
+   "Arrangemonk"
+  ],
+  "url": "https://polyhaven.com/a/classic_laptop",
+  "license": "CC0"
+ },
+ "circuit_board": {
+  "name": "Circuit Board",
+  "authors": [
+   "Benny Weimer"
+  ],
+  "url": "https://polyhaven.com/a/circuit_board",
+  "license": "CC0"
+ },
+ "cannon_01": {
+  "name": "Cannon 01",
+  "authors": [
+   "Yann Kervran",
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/cannon_01",
+  "license": "CC0"
+ },
+ "antique_katana_01": {
+  "name": "Antique Katana 01",
+  "authors": [
+   "Tal Swicegood"
+  ],
+  "url": "https://polyhaven.com/a/antique_katana_01",
+  "license": "CC0"
+ },
+ "service_pistol": {
+  "name": "Service Pistol",
+  "authors": [
+   "Mateusz Sadek"
+  ],
+  "url": "https://polyhaven.com/a/service_pistol",
+  "license": "CC0"
+ },
+ "ornate_medieval_dagger": {
+  "name": "Ornate Medieval Dagger",
+  "authors": [
+   "Sofia Pahaoja"
+  ],
+  "url": "https://polyhaven.com/a/ornate_medieval_dagger",
+  "license": "CC0"
+ },
+ "machete": {
+  "name": "Machete",
+  "authors": [
+   "Ulan Cabanilla"
+  ],
+  "url": "https://polyhaven.com/a/machete",
+  "license": "CC0"
+ },
+ "wooden_handle_saber": {
+  "name": "Wooden Handle Saber",
+  "authors": [
+   "Ulan Cabanilla"
+  ],
+  "url": "https://polyhaven.com/a/wooden_handle_saber",
+  "license": "CC0"
+ },
+ "bolt_action_rifle_7_62": {
+  "name": "Bolt Action Rifle 7.62",
+  "authors": [
+   "Mateusz Sadek"
+  ],
+  "url": "https://polyhaven.com/a/bolt_action_rifle_7_62",
+  "license": "CC0"
+ },
+ "antique_estoc": {
+  "name": "Antique Estoc",
+  "authors": [
+   "James Ray Cock",
+   "Ulan Cabanilla"
+  ],
+  "url": "https://polyhaven.com/a/antique_estoc",
+  "license": "CC0"
+ },
+ "baseball_01": {
+  "name": "Baseball 01",
+  "authors": [
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/baseball_01",
+  "license": "CC0"
+ },
+ "football": {
+  "name": "Football",
+  "authors": [
+   "Amal Kumar"
+  ],
+  "url": "https://polyhaven.com/a/football",
+  "license": "CC0"
+ },
+ "dirty_football": {
+  "name": "Dirty Football",
+  "authors": [
+   "Rohit Seervi"
+  ],
+  "url": "https://polyhaven.com/a/dirty_football",
+  "license": "CC0"
+ },
+ "baseball_bat": {
+  "name": "Baseball Bat",
+  "authors": [
+   "Enrique Mart\u00edn"
+  ],
+  "url": "https://polyhaven.com/a/baseball_bat",
+  "license": "CC0"
+ },
+ "american_football": {
+  "name": "American Football",
+  "authors": [
+   "Riley Queen"
+  ],
+  "url": "https://polyhaven.com/a/american_football",
+  "license": "CC0"
+ },
+ "ship_pinnace": {
+  "name": "Ship Pinnace",
+  "authors": [
+   "James Ray Cock",
+   "Rico Cilliers",
+   "Nicol\u00f2 Zubbini",
+   "Yann Kervran"
+  ],
+  "url": "https://polyhaven.com/a/ship_pinnace",
+  "license": "CC0"
+ },
+ "dutch_ship_medium": {
+  "name": "Dutch Ship Medium",
+  "authors": [
+   "James Ray Cock",
+   "Rico Cilliers",
+   "Nicol\u00f2 Zubbini"
+  ],
+  "url": "https://polyhaven.com/a/dutch_ship_medium",
+  "license": "CC0"
+ },
+ "dutch_ship_large_02": {
+  "name": "Dutch Ship Large 02",
+  "authors": [
+   "James Ray Cock",
+   "Rico Cilliers",
+   "Nicol\u00f2 Zubbini"
+  ],
+  "url": "https://polyhaven.com/a/dutch_ship_large_02",
+  "license": "CC0"
+ },
+ "food_apple_01": {
+  "name": "Food Apple 01",
+  "authors": [
+   "Oliver Harries"
+  ],
+  "url": "https://polyhaven.com/a/food_apple_01",
+  "license": "CC0"
+ },
+ "food_lime_01": {
+  "name": "Food Lime 01",
+  "authors": [
+   "Oliver Harries"
+  ],
+  "url": "https://polyhaven.com/a/food_lime_01",
+  "license": "CC0"
+ },
+ "food_pomegranate_01": {
+  "name": "Food Pomegranate 01",
+  "authors": [
+   "Oliver Harries"
+  ],
+  "url": "https://polyhaven.com/a/food_pomegranate_01",
+  "license": "CC0"
+ },
+ "lemon": {
+  "name": "Lemon",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "url": "https://polyhaven.com/a/lemon",
+  "license": "CC0"
+ },
+ "food_pears_asian_01": {
+  "name": "Pears Asian 01",
+  "authors": [
+   "Amal Kumar"
+  ],
+  "url": "https://polyhaven.com/a/food_pears_asian_01",
+  "license": "CC0"
+ },
+ "food_avocado_01": {
+  "name": "Food Avocado 01",
+  "authors": [
+   "Oliver Harries"
+  ],
+  "url": "https://polyhaven.com/a/food_avocado_01",
+  "license": "CC0"
+ },
+ "wine_bottles_01": {
+  "name": "Wine Bottles 01",
+  "authors": [
+   "Rico Cilliers",
+   "Jurita Burger"
+  ],
+  "url": "https://polyhaven.com/a/wine_bottles_01",
+  "license": "CC0"
+ },
+ "plastic_thermos": {
+  "name": "Plastic Thermos",
+  "authors": [
+   "PierreB3D"
+  ],
+  "url": "https://polyhaven.com/a/plastic_thermos",
+  "license": "CC0"
+ },
+ "modified_thermos": {
+  "name": "Modified Thermos",
+  "authors": [
+   "Alex Weber"
+  ],
+  "url": "https://polyhaven.com/a/modified_thermos",
+  "license": "CC0"
+ },
+ "tea_set_01": {
+  "name": "Tea Set 01",
+  "authors": [
+   "James Ray Cock",
+   "Rico Cilliers",
+   "Jurita Burger"
+  ],
+  "url": "https://polyhaven.com/a/tea_set_01",
+  "license": "CC0"
+ },
+ "brass_goblets": {
+  "name": "Brass Goblets",
+  "authors": [
+   "Tina"
+  ],
+  "url": "https://polyhaven.com/a/brass_goblets",
+  "license": "CC0"
+ },
+ "wooden_bowl_01": {
+  "name": "Wooden Bowl 01",
+  "authors": [
+   "Oliver Harries"
+  ],
+  "url": "https://polyhaven.com/a/wooden_bowl_01",
+  "license": "CC0"
+ },
+ "jug_01": {
+  "name": "Jug 01",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "url": "https://polyhaven.com/a/jug_01",
+  "license": "CC0"
+ },
+ "treasure_chest": {
+  "name": "Treasure Chest",
+  "authors": [
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/treasure_chest",
+  "license": "CC0"
+ },
+ "cardboard_box_01": {
+  "name": "Cardboard Box 01",
+  "authors": [
+   "Rahul Chaudhary"
+  ],
+  "url": "https://polyhaven.com/a/cardboard_box_01",
+  "license": "CC0"
+ },
+ "wooden_crate_01": {
+  "name": "Wooden Crate 01",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/wooden_crate_01",
+  "license": "CC0"
+ },
+ "CheeseBox_01": {
+  "name": "CheeseBox_01",
+  "authors": [
+   "Gabriel Radi\u0107"
+  ],
+  "url": "https://polyhaven.com/a/CheeseBox_01",
+  "license": "CC0"
+ },
+ "wooden_crate_02": {
+  "name": "Wooden Crate 02",
+  "authors": [
+   "James Ray Cock",
+   "Jurita Burger"
+  ],
+  "url": "https://polyhaven.com/a/wooden_crate_02",
+  "license": "CC0"
+ },
+ "metal_trash_can": {
+  "name": "Metal Trash Can",
+  "authors": [
+   "GurJas Studios"
+  ],
+  "url": "https://polyhaven.com/a/metal_trash_can",
+  "license": "CC0"
+ },
+ "spray_paint_bottles_02": {
+  "name": "Spray Paint Bottles 02",
+  "authors": [
+   "Riley Queen"
+  ],
+  "url": "https://polyhaven.com/a/spray_paint_bottles_02",
+  "license": "CC0"
+ },
+ "small_oil_can_01": {
+  "name": "Small Oil Can 01",
+  "authors": [
+   "Raven van de Werken"
+  ],
+  "url": "https://polyhaven.com/a/small_oil_can_01",
+  "license": "CC0"
+ },
+ "spray_paint_bottles": {
+  "name": "Spray Paint Bottles",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/spray_paint_bottles",
+  "license": "CC0"
+ },
+ "lubricant_spray": {
+  "name": "Lubricant Spray",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/lubricant_spray",
+  "license": "CC0"
+ },
+ "fancy_picture_frame_01": {
+  "name": "Fancy Picture Frame 01",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/fancy_picture_frame_01",
+  "license": "CC0"
+ },
+ "ornate_mirror_01": {
+  "name": "Ornate Mirror 01",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/ornate_mirror_01",
+  "license": "CC0"
+ },
+ "fancy_picture_frame_02": {
+  "name": "Fancy Picture Frame 02",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/fancy_picture_frame_02",
+  "license": "CC0"
+ },
+ "hanging_picture_frame_02": {
+  "name": "Hanging Picture Frame 02",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/hanging_picture_frame_02",
+  "license": "CC0"
+ },
+ "decorative_book_set_01": {
+  "name": "Decorative Book Set 01",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/decorative_book_set_01",
+  "license": "CC0"
+ },
+ "book_encyclopedia_set_01": {
+  "name": "Book Encyclopedia Set 01",
+  "authors": [
+   "John Malcolm"
+  ],
+  "url": "https://polyhaven.com/a/book_encyclopedia_set_01",
+  "license": "CC0"
+ },
+ "standing_chalkboard_01": {
+  "name": "Standing Chalkboard 01",
+  "authors": [
+   "ParzivalCG"
+  ],
+  "url": "https://polyhaven.com/a/standing_chalkboard_01",
+  "license": "CC0"
+ },
+ "postcard_set_01": {
+  "name": "Postcard Set 01",
+  "authors": [
+   "James Ray Cock",
+   "Jurita Burger"
+  ],
+  "url": "https://polyhaven.com/a/postcard_set_01",
+  "license": "CC0"
+ },
+ "power_box_01": {
+  "name": "Power Box 01",
+  "authors": [
+   "Rico Cilliers",
+   "Yann Kervran"
+  ],
+  "url": "https://polyhaven.com/a/power_box_01",
+  "license": "CC0"
+ },
+ "utility_box_02": {
+  "name": "Utility Box 02",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/utility_box_02",
+  "license": "CC0"
+ },
+ "modular_electricity_poles": {
+  "name": "Modular Electricity Poles",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "url": "https://polyhaven.com/a/modular_electricity_poles",
+  "license": "CC0"
+ },
+ "security_camera_01": {
+  "name": "Security Camera 01",
+  "authors": [
+   "Alexander Otterbeck",
+   "Yann Kervran"
+  ],
+  "url": "https://polyhaven.com/a/security_camera_01",
+  "license": "CC0"
+ },
+ "exterior_aircon_unit": {
+  "name": "Exterior Aircon Unit",
+  "authors": [
+   "Monsta3D"
+  ],
+  "url": "https://polyhaven.com/a/exterior_aircon_unit",
+  "license": "CC0"
+ },
+ "security_camera_02": {
+  "name": "Security Camera 02",
+  "authors": [
+   "Garrison Gager",
+   "Yann Kervran"
+  ],
+  "url": "https://polyhaven.com/a/security_camera_02",
+  "license": "CC0"
+ },
+ "shrub_sorrel_01": {
+  "name": "Shrub Sorrel 01",
+  "authors": [
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/shrub_sorrel_01",
+  "license": "CC0"
+ },
+ "searsia_lucida": {
+  "name": "Searsia Lucida",
+  "authors": [
+   "James Ray Cock",
+   "Jenelle van Heerden"
+  ],
+  "url": "https://polyhaven.com/a/searsia_lucida",
+  "license": "CC0"
+ },
+ "nettle_plant": {
+  "name": "Nettle Plant",
+  "authors": [
+   "Rob Tuytel",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/nettle_plant",
+  "license": "CC0"
+ },
+ "shrub_01": {
+  "name": "Shrub 01",
+  "authors": [
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/shrub_01",
+  "license": "CC0"
+ },
+ "wheelchair_01": {
+  "name": "Wheelchair 01",
+  "authors": [
+   "Garreth Dean"
+  ],
+  "url": "https://polyhaven.com/a/wheelchair_01",
+  "license": "CC0"
+ },
+ "vintage_pocket_watch": {
+  "name": "Vintage Pocket Watch",
+  "authors": [
+   "Tal Swicegood"
+  ],
+  "url": "https://polyhaven.com/a/vintage_pocket_watch",
+  "license": "CC0"
+ },
+ "vintage_suitcase": {
+  "name": "Vintage Suitcase",
+  "authors": [
+   "Maximilian Schuster"
+  ],
+  "url": "https://polyhaven.com/a/vintage_suitcase",
+  "license": "CC0"
+ },
+ "garden_gloves_01": {
+  "name": "Garden Gloves 01",
+  "authors": [
+   "Satyaki Mandal"
+  ],
+  "url": "https://polyhaven.com/a/garden_gloves_01",
+  "license": "CC0"
+ },
+ "covered_car": {
+  "name": "Covered Car",
+  "authors": [
+   "MP"
+  ],
+  "url": "https://polyhaven.com/a/covered_car",
+  "license": "CC0"
+ },
+ "old_tyre": {
+  "name": "Old Tyre",
+  "authors": [
+   "MP"
+  ],
+  "url": "https://polyhaven.com/a/old_tyre",
+  "license": "CC0"
+ },
+ "ocean_buoy": {
+  "name": "Ocean Buoy",
+  "authors": [
+   "Mateusz Sadek"
+  ],
+  "url": "https://polyhaven.com/a/ocean_buoy",
+  "license": "CC0"
+ },
+ "lifebuoy": {
+  "name": "Lifebuoy",
+  "authors": [
+   "Hank Kaamura"
+  ],
+  "url": "https://polyhaven.com/a/lifebuoy",
+  "license": "CC0"
+ },
+ "dikhololo_night": {
+  "name": "Dikhololo Night",
+  "authors": [
+   "Greg Zaal"
+  ],
+  "url": "https://polyhaven.com/a/dikhololo_night",
+  "license": "CC0"
+ },
+ "satara_night": {
+  "name": "Satara Night",
+  "authors": [
+   "Greg Zaal"
+  ],
+  "url": "https://polyhaven.com/a/satara_night",
+  "license": "CC0"
+ },
+ "satara_night_no_lamps": {
+  "name": "Satara Night (No Lamps)",
+  "authors": [
+   "Greg Zaal"
+  ],
+  "url": "https://polyhaven.com/a/satara_night_no_lamps",
+  "license": "CC0"
+ },
+ "canary_wharf": {
+  "name": "Canary Wharf",
+  "authors": [
+   "Andreas Mischok"
+  ],
+  "url": "https://polyhaven.com/a/canary_wharf",
+  "license": "CC0"
+ },
+ "wide_street_01": {
+  "name": "Wide Street 01",
+  "authors": [
+   "Sergej Majboroda"
+  ],
+  "url": "https://polyhaven.com/a/wide_street_01",
+  "license": "CC0"
+ },
+ "shanghai_bund": {
+  "name": "Shanghai Bund",
+  "authors": [
+   "Greg Zaal"
+  ],
+  "url": "https://polyhaven.com/a/shanghai_bund",
+  "license": "CC0"
+ },
+ "venice_sunset": {
+  "name": "Venice Sunset",
+  "authors": [
+   "Greg Zaal"
+  ],
+  "url": "https://polyhaven.com/a/venice_sunset",
+  "license": "CC0"
+ },
+ "the_sky_is_on_fire": {
+  "name": "The Sky Is On Fire",
+  "authors": [
+   "Greg Zaal",
+   "Rico Cilliers"
+  ],
+  "url": "https://polyhaven.com/a/the_sky_is_on_fire",
+  "license": "CC0"
+ },
+ "belfast_sunset_puresky": {
+  "name": "Belfast Sunset (Pure Sky)",
+  "authors": [
+   "Greg Zaal",
+   "Dimitrios Savva",
+   "Jarod Guest"
+  ],
+  "url": "https://polyhaven.com/a/belfast_sunset_puresky",
+  "license": "CC0"
+ }
+}
