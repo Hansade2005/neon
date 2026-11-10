@@ -1,0 +1,93 @@
+{
+ "n2": {
+  "voice": "bm_george",
+  "lines": [
+   "Three days later. The Neon Arena is sold out. Twenty-two thousand fans, one voice.",
+   "She sang her heart out. The crowd sang it back.",
+   "But in the shadows, someone was listening very closely.",
+   "Las Vegas. Neon and noise. The tour keeps rolling.",
+   "Chicago. Cold rain, and a long road.",
+   "New York. The final show. The biggest stage of her life.",
+   "The lights went out. And so did the world."
+  ]
+ },
+ "rex": {
+  "voice": "am_michael",
+  "lines": [
+   "Perimeter is secure. Anything you need, boss.",
+   "Sir, I think that's enough for tonight.",
+   "Pack your things. We're moving tonight.",
+   "That was no accident. Somebody cut those brakes.",
+   "Nova! Nova! Stay with me!",
+   "Hold on. I'm coming. I'm coming for you.",
+   "I see the van. Stay on him!",
+   "Nobody takes her. Nobody."
+  ]
+ },
+ "nova2": {
+  "voice": "af_bella",
+  "lines": [
+   "Just my voice and a little luck.",
+   "Thanks. Do I know you?",
+   "Let's keep the tour going. I'm not hiding.",
+   "Rex, did you see his face?",
+   "Okay. Okay, think. There has to be a way out.",
+   "The lock. I can pick it.",
+   "A weapon. Finally.",
+   "There. The pier. That's my way out.",
+   "It's over, Ghost.",
+   "I'll never be anyone's prisoner.",
+   "Let them see the truth.",
+   "I'm home."
+  ]
+ },
+ "ghost": {
+  "voice": "bm_lewis",
+  "lines": [
+   "Nova Vega. I have followed every show. Every song.",
+   "Not yet.",
+   "Do you always leave through the east gate?",
+   "Good evening, Nova. You never answered my letters.",
+   "Don't hurt her. She is the whole show.",
+   "You are mine now. The fans never needed you. I did.",
+   "You will sing for me. Only for me.",
+   "No! This was supposed to be perfect!"
+  ]
+ },
+ "lena": {
+  "voice": "af_nicole",
+  "lines": [
+   "Ms. Vega, I'm Agent Ortiz. Someone has been following your tour.",
+   "We found the van. Move in, now!",
+   "Dante Kane. We've been after him for two years.",
+   "It's over, Kane. Hands where I can see them."
+  ]
+ },
+ "marcus2": {
+  "voice": "am_adam",
+  "lines": [
+   "Break a leg tonight. We will be in the front row, with ear protection for the kids.",
+   "Nova? Nova, where are you? Pick up!",
+   "You're safe. You're really safe.",
+   "Welcome home, superstar."
+  ]
+ },
+ "announcer": {
+  "voice": "am_michael",
+  "lines": [
+   "Ladies and gentlemen, the Queen of the Neon Skyline, Nova Vega!",
+   "New York! Are you ready?!",
+   "Something is wrong with the lights! Please remain calm!",
+   "Please proceed calmly to the exits!"
+  ]
+ },
+ "thug": {
+  "voice": "am_adam",
+  "lines": [
+   "Get her! Don't let her run!",
+   "Boss said no mistakes.",
+   "She's over here!",
+   "Stop right there!"
+  ]
+ }
+}

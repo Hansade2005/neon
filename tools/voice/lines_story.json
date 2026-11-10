@@ -1,0 +1,51 @@
+{
+ "narr": {
+  "voice": "bm_george",
+  "lines": [
+   "Los Angeles. Seven in the morning. Another day in the Hollywood Hills.",
+   "For most people, this is a dream. For Nova Vega, it is Tuesday.",
+   "Three number one albums. Two world tours. And one very loud alarm clock.",
+   "Act one is complete. The tour begins in Los Angeles."
+  ]
+ },
+ "nova": {
+  "voice": "af_bella",
+  "lines": [
+   "Okay, world. Let's see what you've got.",
+   "Five more minutes. Please.",
+   "I'm ready. Where's the car?",
+   "Where are the kids?",
+   "Seriously? It's not even eight o'clock.",
+   "Not today, boys. I have a record to make.",
+   "I think I lost them.",
+   "Let's make a hit."
+  ]
+ },
+ "marcus": {
+  "voice": "am_adam",
+  "lines": [
+   "Morning, superstar. Coffee's hot, and the whole world is waiting for you.",
+   "Ha! Tell that to your manager. He has called six times already.",
+   "The garage is open. Take whichever one you like, just don't scratch the paint.",
+   "Zoe and Leo are out back, pretending the pool is a pirate ship.",
+   "Studio at nine. The label wants to hear the new single. Go make history.",
+   "Drive safe. And watch out for the cameras."
+  ]
+ },
+ "paps": {
+  "voice": "am_michael",
+  "lines": [
+   "Nova! Nova! Over here!",
+   "Smile, Nova! Just one picture!",
+   "Is it true about the new album?",
+   "Nova, where's the family today?"
+  ]
+ },
+ "producer": {
+  "voice": "am_michael",
+  "lines": [
+   "Everyone, quiet! The Queen of the Neon Skyline has arrived.",
+   "Take your time, Nova. We're rolling whenever you are."
+  ]
+ }
+}
