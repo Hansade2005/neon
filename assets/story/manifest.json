@@ -1,0 +1,222 @@
+{
+ "n2": [
+  {
+   "file": "n2_0.mp3",
+   "text": "Three days later. The Neon Arena is sold out. Twenty-two thousand fans, one voice."
+  },
+  {
+   "file": "n2_1.mp3",
+   "text": "She sang her heart out. The crowd sang it back."
+  },
+  {
+   "file": "n2_2.mp3",
+   "text": "But in the shadows, someone was listening very closely."
+  },
+  {
+   "file": "n2_3.mp3",
+   "text": "Las Vegas. Neon and noise. The tour keeps rolling."
+  },
+  {
+   "file": "n2_4.mp3",
+   "text": "Chicago. Cold rain, and a long road."
+  },
+  {
+   "file": "n2_5.mp3",
+   "text": "New York. The final show. The biggest stage of her life."
+  },
+  {
+   "file": "n2_6.mp3",
+   "text": "The lights went out. And so did the world."
+  }
+ ],
+ "rex": [
+  {
+   "file": "rex_0.mp3",
+   "text": "Perimeter is secure. Anything you need, boss."
+  },
+  {
+   "file": "rex_1.mp3",
+   "text": "Sir, I think that's enough for tonight."
+  },
+  {
+   "file": "rex_2.mp3",
+   "text": "Pack your things. We're moving tonight."
+  },
+  {
+   "file": "rex_3.mp3",
+   "text": "That was no accident. Somebody cut those brakes."
+  },
+  {
+   "file": "rex_4.mp3",
+   "text": "Nova! Nova! Stay with me!"
+  },
+  {
+   "file": "rex_5.mp3",
+   "text": "Hold on. I'm coming. I'm coming for you."
+  },
+  {
+   "file": "rex_6.mp3",
+   "text": "I see the van. Stay on him!"
+  },
+  {
+   "file": "rex_7.mp3",
+   "text": "Nobody takes her. Nobody."
+  }
+ ],
+ "nova2": [
+  {
+   "file": "nova2_0.mp3",
+   "text": "Just my voice and a little luck."
+  },
+  {
+   "file": "nova2_1.mp3",
+   "text": "Thanks. Do I know you?"
+  },
+  {
+   "file": "nova2_2.mp3",
+   "text": "Let's keep the tour going. I'm not hiding."
+  },
+  {
+   "file": "nova2_3.mp3",
+   "text": "Rex, did you see his face?"
+  },
+  {
+   "file": "nova2_4.mp3",
+   "text": "Okay. Okay, think. There has to be a way out."
+  },
+  {
+   "file": "nova2_5.mp3",
+   "text": "The lock. I can pick it."
+  },
+  {
+   "file": "nova2_6.mp3",
+   "text": "A weapon. Finally."
+  },
+  {
+   "file": "nova2_7.mp3",
+   "text": "There. The pier. That's my way out."
+  },
+  {
+   "file": "nova2_8.mp3",
+   "text": "It's over, Ghost."
+  },
+  {
+   "file": "nova2_9.mp3",
+   "text": "I'll never be anyone's prisoner."
+  },
+  {
+   "file": "nova2_10.mp3",
+   "text": "Let them see the truth."
+  },
+  {
+   "file": "nova2_11.mp3",
+   "text": "I'm home."
+  }
+ ],
+ "ghost": [
+  {
+   "file": "ghost_0.mp3",
+   "text": "Nova Vega. I have followed every show. Every song."
+  },
+  {
+   "file": "ghost_1.mp3",
+   "text": "Not yet."
+  },
+  {
+   "file": "ghost_2.mp3",
+   "text": "Do you always leave through the east gate?"
+  },
+  {
+   "file": "ghost_3.mp3",
+   "text": "Good evening, Nova. You never answered my letters."
+  },
+  {
+   "file": "ghost_4.mp3",
+   "text": "Don't hurt her. She is the whole show."
+  },
+  {
+   "file": "ghost_5.mp3",
+   "text": "You are mine now. The fans never needed you. I did."
+  },
+  {
+   "file": "ghost_6.mp3",
+   "text": "You will sing for me. Only for me."
+  },
+  {
+   "file": "ghost_7.mp3",
+   "text": "No! This was supposed to be perfect!"
+  }
+ ],
+ "lena": [
+  {
+   "file": "lena_0.mp3",
+   "text": "Ms. Vega, I'm Agent Ortiz. Someone has been following your tour."
+  },
+  {
+   "file": "lena_1.mp3",
+   "text": "We found the van. Move in, now!"
+  },
+  {
+   "file": "lena_2.mp3",
+   "text": "Dante Kane. We've been after him for two years."
+  },
+  {
+   "file": "lena_3.mp3",
+   "text": "It's over, Kane. Hands where I can see them."
+  }
+ ],
+ "marcus2": [
+  {
+   "file": "marcus2_0.mp3",
+   "text": "Break a leg tonight. We will be in the front row, with ear protection for the kids."
+  },
+  {
+   "file": "marcus2_1.mp3",
+   "text": "Nova? Nova, where are you? Pick up!"
+  },
+  {
+   "file": "marcus2_2.mp3",
+   "text": "You're safe. You're really safe."
+  },
+  {
+   "file": "marcus2_3.mp3",
+   "text": "Welcome home, superstar."
+  }
+ ],
+ "announcer": [
+  {
+   "file": "announcer_0.mp3",
+   "text": "Ladies and gentlemen, the Queen of the Neon Skyline, Nova Vega!"
+  },
+  {
+   "file": "announcer_1.mp3",
+   "text": "New York! Are you ready?!"
+  },
+  {
+   "file": "announcer_2.mp3",
+   "text": "Something is wrong with the lights! Please remain calm!"
+  },
+  {
+   "file": "announcer_3.mp3",
+   "text": "Please proceed calmly to the exits!"
+  }
+ ],
+ "thug": [
+  {
+   "file": "thug_0.mp3",
+   "text": "Get her! Don't let her run!"
+  },
+  {
+   "file": "thug_1.mp3",
+   "text": "Boss said no mistakes."
+  },
+  {
+   "file": "thug_2.mp3",
+   "text": "She's over here!"
+  },
+  {
+   "file": "thug_3.mp3",
+   "text": "Stop right there!"
+  }
+ ]
+}

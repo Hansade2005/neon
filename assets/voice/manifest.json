@@ -1,0 +1,358 @@
+{
+ "ped_m": [
+  {
+   "file": "ped_m_0.mp3",
+   "text": "Nice car, man!"
+  },
+  {
+   "file": "ped_m_1.mp3",
+   "text": "Hey, watch where you're going!"
+  },
+  {
+   "file": "ped_m_2.mp3",
+   "text": "Whoa! Slow down!"
+  },
+  {
+   "file": "ped_m_3.mp3",
+   "text": "Beautiful night, isn't it?"
+  },
+  {
+   "file": "ped_m_4.mp3",
+   "text": "I'm going to be late for work."
+  },
+  {
+   "file": "ped_m_5.mp3",
+   "text": "Did you see that?"
+  },
+  {
+   "file": "ped_m_6.mp3",
+   "text": "Excuse me, coming through."
+  },
+  {
+   "file": "ped_m_7.mp3",
+   "text": "Can you believe this traffic?"
+  },
+  {
+   "file": "ped_m_8.mp3",
+   "text": "Have a good one!"
+  },
+  {
+   "file": "ped_m_9.mp3",
+   "text": "That's a wild machine."
+  },
+  {
+   "file": "ped_m_10.mp3",
+   "text": "Hey, you dropped something."
+  },
+  {
+   "file": "ped_m_11.mp3",
+   "text": "What a city, right?"
+  },
+  {
+   "file": "ped_m_12.mp3",
+   "text": "Not today, buddy."
+  },
+  {
+   "file": "ped_m_13.mp3",
+   "text": "Leave me alone!"
+  },
+  {
+   "file": "ped_m_14.mp3",
+   "text": "Somebody call the police!"
+  }
+ ],
+ "ped_f": [
+  {
+   "file": "ped_f_0.mp3",
+   "text": "Nice car!"
+  },
+  {
+   "file": "ped_f_1.mp3",
+   "text": "Hey! Watch it!"
+  },
+  {
+   "file": "ped_f_2.mp3",
+   "text": "Oh my gosh, slow down!"
+  },
+  {
+   "file": "ped_f_3.mp3",
+   "text": "What a lovely evening."
+  },
+  {
+   "file": "ped_f_4.mp3",
+   "text": "I'm so late, I have to run."
+  },
+  {
+   "file": "ped_f_5.mp3",
+   "text": "Did you see that?"
+  },
+  {
+   "file": "ped_f_6.mp3",
+   "text": "Excuse me, sorry!"
+  },
+  {
+   "file": "ped_f_7.mp3",
+   "text": "This traffic is unbelievable."
+  },
+  {
+   "file": "ped_f_8.mp3",
+   "text": "Have a great night!"
+  },
+  {
+   "file": "ped_f_9.mp3",
+   "text": "Look at that thing go."
+  },
+  {
+   "file": "ped_f_10.mp3",
+   "text": "Hey, you dropped this."
+  },
+  {
+   "file": "ped_f_11.mp3",
+   "text": "I love this city."
+  },
+  {
+   "file": "ped_f_12.mp3",
+   "text": "Not interested, thanks."
+  },
+  {
+   "file": "ped_f_13.mp3",
+   "text": "Stay away from me!"
+  },
+  {
+   "file": "ped_f_14.mp3",
+   "text": "Help! Somebody help!"
+  }
+ ],
+ "talk_m": [
+  {
+   "file": "talk_m_0.mp3",
+   "text": "So I said to him, it's not my problem."
+  },
+  {
+   "file": "talk_m_1.mp3",
+   "text": "You should have seen the size of it."
+  },
+  {
+   "file": "talk_m_2.mp3",
+   "text": "We should grab a drink after work."
+  },
+  {
+   "file": "talk_m_3.mp3",
+   "text": "The game last night was incredible."
+  },
+  {
+   "file": "talk_m_4.mp3",
+   "text": "I heard the bank is hiring again."
+  },
+  {
+   "file": "talk_m_5.mp3",
+   "text": "Rent is crazy in this part of town."
+  },
+  {
+   "file": "talk_m_6.mp3",
+   "text": "Did you hear about the robbery downtown?"
+  }
+ ],
+ "talk_f": [
+  {
+   "file": "talk_f_0.mp3",
+   "text": "Oh, you will not believe what happened."
+  },
+  {
+   "file": "talk_f_1.mp3",
+   "text": "We should totally go to the club on Friday."
+  },
+  {
+   "file": "talk_f_2.mp3",
+   "text": "She told me she's moving to the coast."
+  },
+  {
+   "file": "talk_f_3.mp3",
+   "text": "I got the new phone, it's amazing."
+  },
+  {
+   "file": "talk_f_4.mp3",
+   "text": "The hotel was gorgeous, you have to go."
+  },
+  {
+   "file": "talk_f_5.mp3",
+   "text": "Honestly, I need a vacation."
+  },
+  {
+   "file": "talk_f_6.mp3",
+   "text": "Everyone is talking about that street race."
+  }
+ ],
+ "police": [
+  {
+   "file": "police_0.mp3",
+   "text": "All units, we have a suspect vehicle. Respond."
+  },
+  {
+   "file": "police_1.mp3",
+   "text": "Suspect is heading north, I'm in pursuit."
+  },
+  {
+   "file": "police_2.mp3",
+   "text": "Dispatch, requesting backup, high speed chase."
+  },
+  {
+   "file": "police_3.mp3",
+   "text": "Pull over now! Pull over!"
+  },
+  {
+   "file": "police_4.mp3",
+   "text": "Shots fired, I repeat shots fired."
+  },
+  {
+   "file": "police_5.mp3",
+   "text": "Suspect on foot, set up a perimeter."
+  },
+  {
+   "file": "police_6.mp3",
+   "text": "He's gone. We lost visual on the suspect."
+  },
+  {
+   "file": "police_7.mp3",
+   "text": "All clear. Return to patrol."
+  },
+  {
+   "file": "police_8.mp3",
+   "text": "Roadblock is in place, cut him off."
+  },
+  {
+   "file": "police_9.mp3",
+   "text": "Unit twelve, in pursuit, east side of downtown."
+  },
+  {
+   "file": "police_10.mp3",
+   "text": "Suspect is armed and dangerous. Proceed with caution."
+  },
+  {
+   "file": "police_11.mp3",
+   "text": "You are under arrest. Put your hands up."
+  }
+ ],
+ "dj": [
+  {
+   "file": "dj_0.mp3",
+   "text": "You're listening to Neon F M, the sound of the city after dark."
+  },
+  {
+   "file": "dj_1.mp3",
+   "text": "This is Neon F M. Stay out late, drive fast."
+  },
+  {
+   "file": "dj_2.mp3",
+   "text": "Coming up, more nonstop music on Neon F M."
+  },
+  {
+   "file": "dj_3.mp3",
+   "text": "Traffic is heavy downtown tonight, so take the back streets."
+  },
+  {
+   "file": "dj_4.mp3",
+   "text": "Weather report: clear skies and a long night ahead."
+  },
+  {
+   "file": "dj_5.mp3",
+   "text": "That was Neon F M. Keep it locked."
+  },
+  {
+   "file": "dj_6.mp3",
+   "text": "Ten out of ten for the night shift. Stay safe out there."
+  }
+ ],
+ "atm": [
+  {
+   "file": "atm_0.mp3",
+   "text": "Welcome. Please choose an option."
+  },
+  {
+   "file": "atm_1.mp3",
+   "text": "Transaction complete. Thank you."
+  },
+  {
+   "file": "atm_2.mp3",
+   "text": "Insufficient funds."
+  },
+  {
+   "file": "atm_3.mp3",
+   "text": "Your deposit has been received."
+  },
+  {
+   "file": "atm_4.mp3",
+   "text": "Please take your cash."
+  },
+  {
+   "file": "atm_5.mp3",
+   "text": "Your wallet has been topped up."
+  }
+ ],
+ "shop": [
+  {
+   "file": "shop_0.mp3",
+   "text": "Welcome in, take a look around."
+  },
+  {
+   "file": "shop_1.mp3",
+   "text": "Thanks for shopping with us."
+  },
+  {
+   "file": "shop_2.mp3",
+   "text": "That will be your total, please."
+  },
+  {
+   "file": "shop_3.mp3",
+   "text": "Come back soon."
+  }
+ ],
+ "bank": [
+  {
+   "file": "bank_0.mp3",
+   "text": "Everybody down! Nobody move!"
+  },
+  {
+   "file": "bank_1.mp3",
+   "text": "Put the money in the bag!"
+  },
+  {
+   "file": "bank_2.mp3",
+   "text": "Hands where I can see them!"
+  },
+  {
+   "file": "bank_3.mp3",
+   "text": "Open the vault, now!"
+  },
+  {
+   "file": "bank_4.mp3",
+   "text": "Don't try anything funny."
+  }
+ ],
+ "player": [
+  {
+   "file": "player_0.mp3",
+   "text": "Let's go."
+  },
+  {
+   "file": "player_1.mp3",
+   "text": "Time to get moving."
+  },
+  {
+   "file": "player_2.mp3",
+   "text": "That was close."
+  },
+  {
+   "file": "player_3.mp3",
+   "text": "I need some cash."
+  },
+  {
+   "file": "player_4.mp3",
+   "text": "Nice ride."
+  },
+  {
+   "file": "player_5.mp3",
+   "text": "Perfect."
+  }
+ ]
+}
